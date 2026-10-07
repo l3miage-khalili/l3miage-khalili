@@ -95,16 +95,16 @@ Ce projet a pour but de démontrer des compétences solides en **développement 
 
 | Technologies que je maîtrise et que j'approfondis | Nouvelles technologies que j'apprends |
 |---|---|
-| Java, Spring Boot, PostgreSQL, JUnit, Mockito, Swagger, Angular, Docker, GitHub Actions (CI/CD), Nginx | Flyway, Testcontainers, SonarQube, Terraform, Redis, Prometheus, Grafana |
+| Java, Spring Boot, PostgreSQL, JUnit, Mockito, Swagger, Angular, Docker, GitHub Actions (CI/CD), Nginx | Flyway, Testcontainers, SonarQube, Terraform, Ansible, Redis, Prometheus, Grafana |
 
 ### 🖥️ Déploiement en production
 Un autre aspect particulièrement intéressant de ce projet est la gestion du **déploiement en production sur le cloud**, notamment sur un **VPS Hetzner**. Cela me permet d'endosser également une casquette d'**administrateur système**.
 
 ---
 
-## 💼 Recherche d'emploi
+## 💼 Disponible pour une nouvelle opportunité
 
-Je suis actuellement à la recherche d'un **CDI** pour un poste d'**Ingénieur logiciel** ou d'**Ingénieur DevOps**. N'hésitez pas à me contacter !
+Je recherche principalement des opportunités en tant qu'**Ingénieur logiciel** ou **Ingénieur DevOps**. N'hésitez pas à me contacter !
 
 ---
 
