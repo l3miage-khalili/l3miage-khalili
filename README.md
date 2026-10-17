@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Je suis **Ibrahim KHALIL**, Ingénieur logiciel orienté **Backend & DevOps**.
+Je suis **Ibrahim KHALIL**, Ingénieur informaticien.
 
 ---
 
