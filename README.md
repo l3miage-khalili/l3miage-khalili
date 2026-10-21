@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Je suis **Ibrahim KHALIL**, Ingénieur informaticien.
+Je suis **Ibrahim KHALIL**, Ingénieur logiciel & Transformation des SI.
 
 ---
 
@@ -24,7 +24,7 @@ Je suis **Ibrahim KHALIL**, Ingénieur informaticien.
 | Catégorie | Outils |
 |---|---|
 | **Langages** | Java, PHP, Python, SQL, JavaScript, TypeScript, HTML, CSS |
-| **Technologies** | Spring Boot, Slim, RabbitMQ, Angular |
+| **Technologies** | Spring Boot, Slim, RabbitMQ, Angular, UML, BPMN, SAP, ABAP |
 | **Bases de données** | SQL (PostgreSQL, Oracle, MySQL) - NoSQL (MongoDB, Neo4j) |
 | **DevOps et Cloud** | Docker, Buildah, Kubernetes, Helm, Trivy, Dive, Hadolint, GitOps, Vault / External Secrets Operator, AWS |
 | **Tests et Qualité** | JUnit, Mockito, PHPUnit, SonarQube |
@@ -35,7 +35,7 @@ Je suis **Ibrahim KHALIL**, Ingénieur informaticien.
 
 ## 👤 Mon profil en bref
 
-Je suis diplômé d'un **M2 MIAGE**, avec une spécialisation en **ingénierie de la transformation numérique**. Ayant plus d'un an d'expérience en tant qu'ingénieur logiciel, j'accompagne les entreprises dans leurs projets de transformation numérique en concevant des architectures modernes, évolutives et sécurisées.
+Je suis diplômé d'un **M2 MIAGE**, avec une spécialisation en **Ingénierie de la Transformation Numérique**. Ayant plus d'un an d'expérience en tant qu'ingénieur logiciel, j'accompagne les entreprises dans leurs projets de transformation numérique en concevant des architectures modernes, évolutives et sécurisées.
 
 ---
 
@@ -89,7 +89,7 @@ Peu importent les technologies requises par vos projets, les concepts fondamenta
 Je développe actuellement une **plateforme de veille technologique** qui agrège automatiquement des articles tech depuis plusieurs sources, les catégorise par tags, et propose à chaque utilisateur un **fil personnalisé** selon ses centres d'intérêt et son comportement de lecture.
 
 ### 🎯 Objectifs du projet
-Ce projet a pour but de démontrer des compétences solides en **développement backend/frontend** ainsi qu'en **DevOps** (CI/CD, conteneurisation, déploiement, monitoring). C'est aussi pour moi l'occasion d'approfondir ces compétences et d'apprendre de nouvelles technologies.
+Ce projet a pour but de démontrer des compétences solides en **développement backend/frontend** en **DevOps** (CI/CD, conteneurisation, déploiement, monitoring) ainsi qu'en gestion de projets. C'est aussi pour moi l'occasion d'approfondir ces compétences et d'apprendre de nouvelles technologies.
 
 ### 📚 Technologies
 
@@ -104,7 +104,7 @@ Un autre aspect particulièrement intéressant de ce projet est la gestion du **
 
 ## 💼 Disponible pour une nouvelle opportunité
 
-Je recherche principalement des opportunités en tant qu'**Ingénieur logiciel** ou **Ingénieur DevOps**. N'hésitez pas à me contacter !
+Je recherche principalement des opportunités dans la transformation des SI, dans le coseil (AMOA, Consultant en Transformation Digitale) ou dans l'ingénierie logicielle en tant qu'**Ingénieur logiciel** ou **Ingénieur DevOps**. N'hésitez pas à me contacter !
 
 ---
 
